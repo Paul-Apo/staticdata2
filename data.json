@@ -1,5 +1,8 @@
 {
-    "customerId": 200,
-    "slot_time": "Friday",
-    "doctor": ""
+    "user1": {
+        "customerId": 200,
+        "slot_time": "Friday",
+        "doctor": "dr. aderaw"
+    }
+    
 }
